@@ -169,7 +169,7 @@ XMLと比較して直接読み取ることが容易であり、広く使われ�
 }
 ```
 
- [参照先]　
+ **[参照先]　**
    - [トクタさんのブログ](https://blog.senseshare.jp/url-basic.html)
    - [DIVEINTOCODEさんのwebサイト](https://diveintocode.jp/blogs/Technology/depUrlHttpMethod)
    - [Mdn web docs](https://developer.mozilla.org/ja/docs/Web/HTTP/Status)
